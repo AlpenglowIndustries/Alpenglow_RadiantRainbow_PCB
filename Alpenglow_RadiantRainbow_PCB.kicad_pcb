@@ -6919,7 +6919,7 @@
   (gr_text "100" (at 122.682 91.821 60) (layer "B.SilkS") (tstamp d77b2da9-ca8e-40ec-bfb3-aefe28ac915f)
     (effects (font (size 1.27 1.27) (thickness 0.2032)) (justify mirror))
   )
-  (gr_text "499" (at 167.513 91.694 -65) (layer "B.SilkS") (tstamp da760ace-b0ff-47e6-aaac-39646b7c0bf4)
+  (gr_text "680" (at 167.513 91.694 -65) (layer "B.SilkS") (tstamp da760ace-b0ff-47e6-aaac-39646b7c0bf4)
     (effects (font (size 1.27 1.27) (thickness 0.2032)) (justify mirror))
   )
   (gr_text "-" (at 140.97 93.599) (layer "B.SilkS") (tstamp e06babf5-0890-4b84-9114-bc8f42b56185)
