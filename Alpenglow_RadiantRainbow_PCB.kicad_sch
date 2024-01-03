@@ -1008,7 +1008,7 @@
     (uuid e5ece5da-4299-41c5-906b-9289c206bf0d)
     (property "Reference" "SW1" (id 0) (at 140.97 43.9125 0))
     (property "Value" "SW_SPDT" (id 1) (at 140.97 46.6876 0))
-    (property "Footprint" "Alpenglow:SW_SPDT_SLIDE_THRU_RTA" (id 2) (at 140.97 50.8 0)
+    (property "Footprint" "Alpenglow:Alpenglow_SW_SPDT_3pin_RTA" (id 2) (at 140.97 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 140.97 50.8 0)
@@ -1136,7 +1136,7 @@
       (reference "R4") (unit 1) (value "100") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/e5ece5da-4299-41c5-906b-9289c206bf0d"
-      (reference "SW1") (unit 1) (value "SW_SPDT") (footprint "Alpenglow:SW_SPDT_SLIDE_THRU_RTA")
+      (reference "SW1") (unit 1) (value "SW_SPDT") (footprint "Alpenglow:Alpenglow_SW_SPDT_3pin_RTA")
     )
   )
 )
